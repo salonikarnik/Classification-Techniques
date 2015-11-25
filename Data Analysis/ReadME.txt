@@ -1,5 +1,4 @@
 Name: Saloni Karnik
-Net-id: suk140030
 
 
 To run the program,go to the command prompt and enter:
@@ -19,4 +18,4 @@ Naive Bayesian : klaR,caret
 SVM:e1071
 
 
-After taking a look at the accuracy reports for all classifiers, the SVM kernel, having it set to radial basis and polynomial works the best for this Pima dataset.
+After taking a look at the accuracy reports for all classifiers, the SVM kernel, having it set to radial basis and polynomial works the best for the Pima dataset.
